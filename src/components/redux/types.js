@@ -1,0 +1,4 @@
+export const SET_CONTRACT = 'SET_CONTRACT';
+export const SET_OWNER = 'SET_OWNER';
+export const SET_CURRENT = 'SET_CURRENT';
+export const SET_CONTRACT_ADDRESS = 'SET_CONTRACT_ADDRESS';
